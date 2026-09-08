@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://prithiraj.github.io/Hearlie_s_Flower_Box/sitemap.xml
